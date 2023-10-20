@@ -58,5 +58,5 @@ jobs:
         with:
           app-name: 'KoiratarhaKaksi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8FF233D93B4D44A28CDB5E0726DC0BBF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_920F545B0A6C4B8AAD917B275606EE74 }}
           package: .
